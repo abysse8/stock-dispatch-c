@@ -1,0 +1,8 @@
+/bin/
+/build/
+*.o
+*.gcda
+*.gcno
+*.gcov
+/data/*.stock
+/data/*.tmp
